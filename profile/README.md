@@ -29,7 +29,7 @@ Choose a path below to get started.
 
 ## 1. Build and deploy Node.js applications with Cloudways Velocity
 
-(<img width="1260" height="493" alt="image" src="https://github.com/user-attachments/assets/3679a9e7-57ff-4ecc-a13a-f9d8c0d09b67" />)
+<img width="950" height="451" alt="image" src="https://github.com/user-attachments/assets/77333ba6-92a8-4676-9b13-9fb777e03f84" />
 
 Build with the frameworks and tools you already use, then explore deployment on Cloudways Velocity.
 
@@ -75,7 +75,7 @@ Explore [Cloudways Velocity](https://www.cloudways.com/en/velocity.php) for prod
 
 ## 2. Connect AI tools and hosting workflows with Cloudways MCP
 
-![Cloudways MCP — connect AI tools with Cloudways](./assets/mcp-hero.png)
+<img width="1101" height="791" alt="image" src="https://github.com/user-attachments/assets/0ff1a465-01a9-46d1-816f-eb2899a2dc5e" />
 
 AI-powered development is becoming more than code generation. Developers are exploring ways to connect AI tools with the services and workflows they use to build and operate applications.
 
@@ -108,7 +108,7 @@ Never commit API keys, access tokens, passwords, or other secrets to a repositor
 
 ## 3. Explore AI agent deployments with Cloudways Managed AI Agents
 
-![Cloudways Managed AI Agents — explore agent deployments](./assets/ai-agents-hero.png)
+<img width="1021" height="428" alt="image" src="https://github.com/user-attachments/assets/c5856672-3ac6-451d-b682-afb0278a9829" />
 
 AI agents can combine models, instructions, tools, integrations, and application logic to perform tasks with varying levels of autonomy.
 
