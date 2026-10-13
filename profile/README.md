@@ -29,8 +29,7 @@ Choose a path below to get started.
 
 ## 1. Build and deploy Node.js applications with Cloudways Velocity
 
-![Cloudways Velocity — managed Node.js hosting](<img width="1260" height="493" alt="image" src="https://github.com/user-attachments/assets/3679a9e7-57ff-4ecc-a13a-f9d8c0d09b67" />
-)
+(<img width="1260" height="493" alt="image" src="https://github.com/user-attachments/assets/3679a9e7-57ff-4ecc-a13a-f9d8c0d09b67" />)
 
 Build with the frameworks and tools you already use, then explore deployment on Cloudways Velocity.
 
